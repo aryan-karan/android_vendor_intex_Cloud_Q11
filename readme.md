@@ -1,1 +1,1 @@
-rainbow vendor
+Nougat vendor blobs from offical Cubot Rainbow V03
