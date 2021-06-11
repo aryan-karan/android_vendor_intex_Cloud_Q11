@@ -1,4 +1,4 @@
-Nougat vendor blobs from offical Cubot Rainbow V03
+Nougat vendor blobs from offical Intex Cloud Q11
 ---------------
 dont replace these files
 
